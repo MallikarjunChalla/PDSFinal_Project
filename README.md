@@ -20,9 +20,9 @@ This repository contains the code and resources for a machine learning project a
 
 Python 3.x
 Libraries: scikit-learn, XGBoost, nltk, matplotlib, seaborn
-Usage
+
 Clone the repository:
-________________________________________________________________
+https://github.com/MallikarjunChalla/PDSFinal_Project.git
 Install the required libraries
 
 Place raw data files in the raw_data/ folder and preprocessed data files in the clean_data/ folder.
