@@ -3,7 +3,7 @@ Raw Data for Fake News Detection Project
 Overview
 
 This folder contains the raw data used in the Fake News Detection project. The data consists of news articles along with their titles and labels indicating whether they are real or fake.
-
+File is in .ZIP format, due to size constrain in uploading the data
 Data Format
 
 The raw data is provided in  CSV (Comma-Separated Values) file format (.csv).. Each row represents a news article and contains the following columns:
